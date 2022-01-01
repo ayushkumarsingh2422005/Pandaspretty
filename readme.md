@@ -18,7 +18,7 @@ It aims to make everything simple.
 
 To install it using PIP use the following command
 ```
-pip install PandasPretty
+pip install Pandaspretty
 ```
 
 
@@ -38,7 +38,7 @@ Let's suppose you have a DataFrame named **_df_** having value
 
 #### Code to prettify your DataFrame (**_df_**)
 ```python
-import PandasPretty as pp
+import Pandaspretty as pp
 [...]
 prettyfied = pp.pretty(df)
 print(prettyfied)
@@ -66,7 +66,7 @@ print(prettyfied)
 #### Importing
 
 ```python
-import PandasPretty as pp 
+import Pandaspretty as pp 
 ```
 
 ### Parameters :
