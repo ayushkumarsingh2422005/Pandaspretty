@@ -3,7 +3,7 @@
 
 ## What is it ?
 
-PandasPretty is a python package which provides you feature to convert your DataFrame in a good looking table, just in few steps.
+Pandaspretty is a python package which provides you feature to convert your DataFrame in a good looking table, just in few steps.
 It aims to make everything simple.
 
 ## Main features
