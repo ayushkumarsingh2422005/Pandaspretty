@@ -13,9 +13,6 @@ It aims to make everything simple.
 3. Fast
 4. Automatically resizable cells
 
-## Where to get it
-
-The source code is currently available on [github](https://www.sololearn.com/Profile/23547751/?ref=app)
 
 ## Installation from sources
 
