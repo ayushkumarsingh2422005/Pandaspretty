@@ -1,6 +1,8 @@
 # Project description
 ----
 
+### [View on PyPI](https://pypi.org/project/Pandaspretty/)
+
 ## What is it ?
 
 Pandaspretty is a python package which provides you feature to convert your DataFrame in a good looking table, just in few steps.
