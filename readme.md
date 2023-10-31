@@ -1,6 +1,6 @@
 # Project Description
 
-![Logo](https://raw.githubusercontent.com/ayushkumarsingh2422005/Pandaspretty/main/Pandaspretty.png)
+![Logo](https://github.com/ayushkumarsingh2422005/Pandaspretty/blob/main/Pandaspretty.png)
 
 
 ## Previous releases :
